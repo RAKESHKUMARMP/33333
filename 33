@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class task3
+{
+    public static void main(String[] mpr)
+    {
+        Scanner obj = new Scanner(System.in);
+        System.out.println("ENTER A NUMBER");
+        int X = obj.nextInt();
+        if (X%5==0 && X%11==0) {
+            System.out.println("NUMERS ARE divivisibile by 5");
+        }
+        else{
+            System.out.println("NUMERS ARE  NOT divivisibile by 11");
+        }
+    }
+}
