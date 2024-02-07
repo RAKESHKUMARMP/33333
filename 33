@@ -10,7 +10,7 @@ public class task3
             System.out.println("NUMERS ARE divivisibile by 5");
         }
         else{
-            System.out.println("NUMERS ARE  NOT divivisibile by 11");
+            System.out.println("NUMERS 11");
         }
     }
 }
